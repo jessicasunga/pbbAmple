@@ -11,8 +11,8 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="wp-content/ample/css/foundation.css">
-<link ref="stylesheet" href="wp-content/ample/css/foundation.min.css">
+<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/foundation.css">
+<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/foundation.min.css">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <script src="https://use.typekit.net/pey4mrd.js"></script>
