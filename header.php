@@ -38,6 +38,13 @@ wp_head();
       <div class="header">
          <?php if( ample_option( 'ample_header_image_position', 'above' ) == 'above' ) { ample_render_header_image(); } ?>
 
+         <div class="row" id="header-buttons">
+            <div class="small-12 columns" style="float: right">
+               <a href="<?php echo site_url('/index.php/apply/'); ?>" class="button">Apply</a>
+               <a href="<?php echo site_url('/index.php/donate/'); ?>" class="button">Donate</a>
+            </div>
+         </div>
+
          <div class="main-head-wrap inner-wrap clearfix">
             <div id="header-left-section">
                <?php if( ( ample_option( 'ample_show_header_logo_text', 'text_only' ) == 'both' || ample_option( 'ample_show_header_logo_text', 'text_only' ) == 'logo_only' ) && ample_option( 'ample_header_logo_image', '' ) != '' ) { ?>

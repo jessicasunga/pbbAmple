@@ -426,6 +426,7 @@ a:focus, a:active, a:hover {
 .main-navigation {
    float: right;
    padding-right: 10px;
+   padding-top: 35px;
 }
 .main-navigation li {
    float: left;
@@ -500,6 +501,7 @@ li.default-menu {
    position: absolute;
    right: 8px;
 }
+.search-top {padding-top: 35px;}
 
 /*
 ====> 5.3 Primary Menu Dropdown
@@ -1274,9 +1276,6 @@ body.wide {
 .business-template #masthead {
    background-color: #ffffff;
 }
-.main-head-wrap {
-   padding: 30px 0;
-}
 .header {
    border-bottom: 1px solid #f2f2f2;
    border-top: 5px solid #f5b148;
@@ -1292,7 +1291,7 @@ body.wide {
 }
 #header-logo-image img {
    margin-bottom: 0px;
-   max-height: 60px;
+   max-height: 100px;
 }
 #header-text {
    float: left;
@@ -1323,6 +1322,24 @@ body.wide {
 img.header-image {
    display: block;
    margin: 0 auto;
+}
+
+#header-buttons {height: 50px;}
+
+#header-buttons .button {
+   border-radius: 3px;
+   background-color: #cf523c;
+}
+
+#header-buttons a {
+   float: right;
+   margin-right: 1em;
+   margin-top: 1em;
+}
+
+@media only screen and (max-width: 768px) {
+   .search-top {padding: 0;}
+   #header-buttons {display: none;}
 }
 
 /*
