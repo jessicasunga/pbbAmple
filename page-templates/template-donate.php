@@ -13,6 +13,8 @@
 <?php get_header();
 
    do_action( 'ample_before_body_content' ); ?>
+   
+   <h1> TEST TEST TEST </h1>
 
    <?php
       if( is_active_sidebar( 'ample_business_sidebar' ) ) {
