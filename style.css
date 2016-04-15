@@ -1720,12 +1720,12 @@ li.comment {
 }
 #colophon a {
    font-weight: 300;
-   color: #b1b6b6;
+   color: #000;
    line-height: 22px;
    font-size: 13px;
 }
 #colophon a:hover {
-   color: #80abc8;
+   color: #f5b148;
 }
 #colophon-box {
    float: left;

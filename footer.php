@@ -30,34 +30,34 @@
                   <div class="row">
                      <div class="medium-4 columns">
                         <ul>
-                           <li class="section-title">Contact</li>
-                           <li>Mailing List</li>
-                           <li>Volunteer</li>
+                           <li><a href="<?php echo site_url('/contact/'); ?>" class="section-title">Contact</a></li>
+                           <li><a href="<?php echo site_url('/contact/'); ?>">Mailing List</a></li>
+                           <li><a href="<?php echo site_url('/apply-volunteer/'); ?>">Volunteer</a></li>
                         </ul>
                         <ul>
-                           <li class="section-title">Apply</li>
-                           <li>Apply for a Service Dog</li>
-                           <li>Apply for a Released Dog</li>                     
+                           <li><a href="<?php echo site_url('/apply/'); ?>" class="section-title">Apply</a></li>
+                           <li><a href="<?php echo site_url('/apply-service-dog/'); ?>">Apply for a Service Dog</a></li>
+                           <li><a href="<?php echo site_url('/apply-release-dog/'); ?>">Apply for a Release Dog</a></li>                     
                         </ul>
                      </div>
                      <div class="medium-4 columns">
                         <ul>
-                           <li class="section-title">About Us</li>
-                           <li>Our Programs</li>
-                           <li>FAQ</li>
-                           <li>Puppy Placement</li>                     
+                           <li><a href="<?php echo site_url('/about/'); ?>" class="section-title">About Us</a></li>
+                           <li><a href="<?php echo site_url('/programs/'); ?>">Our Programs</a></li>
+                           <li><a href="<?php echo site_url('/faq/'); ?>">FAQ</a></li>
+                           <li><a href="<?php echo site_url('/puppy-placement/'); ?>">Puppy Placement</a></li>
                         </ul>
                         <ul>
-                           <li class="section-title">Awards and Publications</li>
-                           <li>PBB &amp; C2W Awards</li>
-                           <li>Publications</li>                     
+                           <li><a href="<?php echo site_url('/awards/'); ?>" class="section-title">Awards and Publications</a></li>
+                           <li><a href="<?php echo site_url('/awards/'); ?>">PBB &amp; C2W Awards</a></li>
+                           <li><a href="<?php echo site_url('/awards/'); ?>">Publications</a></li>         
                         </ul>                        
                      </div>
                      <div class="medium-4 columns">
                         <ul>
-                           <li class="section-title">Photos &amp; Videos</li>
-                           <li>Holiday Cards</li>
-                           <li>Videos</li>                     
+                           <li><a href="<?php echo site_url('/media/'); ?>" class="section-title">Photos &amp; Videos</a></li>
+                           <li><a href="<?php echo site_url('/media/'); ?>">Holiday Cards</a></li>
+                           <li><a href="<?php echo site_url('/media/'); ?>">Videos</a></li>
                         </ul>
                      </div>
                   </div>
