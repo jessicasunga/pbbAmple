@@ -11,10 +11,11 @@
 
       <footer id="colophon">
          <div class="inner-wrap">
+            <h1>TEST TEST TEST TEST</h1>
             <?php get_sidebar( 'footer' ); ?>
 
             <div class="footer-bottom clearfix">
-               <h1>TEST</h1>
+
                <div class="footer-nav">
                <?php
                   if ( has_nav_menu( 'footer' ) ) {
