@@ -19,9 +19,9 @@
                </div><!-- end #footer-button -->
                <div class="medium-4 large-3 columns" id="social-media">
                   <p>Get in touch with us:</p>
-                  <i class="fa fa-facebook-square facebook-color"></i>
-                  <i class="fa fa-twitter-square twitter-color"></i>
-                  <i class="fa fa-instagram instagram-color"></i>
+                  <a href="https://www.facebook.com/Puppies-Behind-Bars-108038285422/"><i class="fa fa-facebook-square facebook-color"></i></a>
+                  <a href="https://twitter.com/pbbassociation"><i class="fa fa-twitter-square twitter-color"></i></a>
+                  <a href="https://www.instagram.com/_puppiesbehindbars/"><i class="fa fa-instagram instagram-color"></i></a>
                </div><!-- end #social-media -->
             </div><!-- end #footer-top -->
 
