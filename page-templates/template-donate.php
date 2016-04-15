@@ -14,7 +14,6 @@
 
    do_action( 'ample_before_body_content' ); ?>
    
-   <h1> TEST TEST TEST </h1>
    <div class="single-page clearfix">
          <div class="inner-wrap">
             <div id="primary" class="content-box">
