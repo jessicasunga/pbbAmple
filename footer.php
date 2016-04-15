@@ -14,6 +14,7 @@
             <?php get_sidebar( 'footer' ); ?>
 
             <div class="footer-bottom clearfix">
+               <h1>TEST</h1>
                <div class="footer-nav">
                <?php
                   if ( has_nav_menu( 'footer' ) ) {
