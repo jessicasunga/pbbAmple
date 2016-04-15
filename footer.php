@@ -11,7 +11,6 @@
 
       <footer id="colophon">
          <div class="inner-wrap">
-            <h1>TEST TEST TEST TEST</h1>
             <?php get_sidebar( 'footer' ); ?>
 
             <div class="footer-bottom clearfix">
