@@ -13,7 +13,7 @@
 <?php get_header();
 
    do_action( 'ample_before_body_content' ); ?>
-
+	<h2> hi </h2>
    <?php
       if( is_active_sidebar( 'ample_business_sidebar' ) ) {
          // Calling the business sidebar if it exists.
