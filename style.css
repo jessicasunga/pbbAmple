@@ -2166,6 +2166,35 @@ a#scroll-up:hover {
 .donate-bottom {
 	margin-bottom: 70px;
 }
+#optional-text{
+	color: #a2a2a2;
+}
+
+#credit-cards {
+	margin-left: 10px;	
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 600px;
+    background-color: #888888;
+    color: #fff;
+    border-radius: 6px;
+    padding: 10px;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
 /*--------------------------------------------------------------
 16.9 FAQ Template
 --------------------------------------------------------------*/
