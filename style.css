@@ -1722,6 +1722,7 @@ li.comment {
    background-color: #87acbe;
    overflow: hidden;
    padding: 50px 0 20px;
+   margin-top: 3em;
 }
 .scrollup:hover{opacity: 0.6;}
 .copyright-info ul li {margin-bottom: 10px; float: left;margin-left: 25px;}
@@ -1768,7 +1769,7 @@ li.comment {
 #footer-button img {padding-right: .5em;}
 
 #social-media p {margin: 0; font-size: 1.3rem !important; font-weight: 900;}
-#social-media i {font-size: 1.5rem; padding: 0 .1em;}
+#social-media i {font-size: 2.5rem; padding: 0 .1em; text-shadow: 1px 1px #4c4c4c}
 
 #sitemap .section-title {font-weight: 900;}
 #sitemap ul {margin-bottom: 2em}
