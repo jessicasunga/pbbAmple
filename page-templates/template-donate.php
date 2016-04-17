@@ -30,7 +30,7 @@
 <!-- .single-page --> 
 <!-- Start Donate Section --> 
 <!-- Make A Donation -->
-<div class="donate-bottom">
+<div class="add-bottom">
   <form>
     <div class="row" style="border: 1px solid #eeeeee; padding: 18px;">
       <div class="large-6 columns">
@@ -67,7 +67,7 @@
   </form>
 </div>
 <!-- Sponser A Puppy -->
-<div class="donate-bottom">
+<div class="add-bottom">
   <div class="row">
     <div class="large-6 columns">
       <div class="box-border">
@@ -79,7 +79,7 @@
   </div>
 </div>
 <!-- Tribute Cards -->
-<div class="donate-bottom">
+<div class="add-bottom">
   <div class="row" style="border: 1px solid #eeeeee; padding: 18px;">
     <div class="large-6 columns">
       <h2> Tribute Cards And Memorial Gifts</h2>
@@ -104,7 +104,7 @@
   </div>
 </div>
 <!-- Donor Privacy Policy -->
-<div class="donate-bottom">
+<div class="add-bottom">
   <div class="column row">
     <h2> Donor Privacy Policy </h2>
     <p> Puppies Behind Bars is committed to respecting the privacy of our donors. We have developed this privacy policy to ensure our donors that donor information will not be shared with any third party. Puppies Behind Bars provides this Donor Privacy Policy to make you aware of our privacy policy, and to inform you of the way your information is used. We also provide you with the opportunity to remove your name from our mailing list, if you desire to do so. We collect and maintain the following types of donor information: contact information, payment information, and requests to receive periodic updates. </p>
