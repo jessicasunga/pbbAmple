@@ -64,7 +64,7 @@ Text Domain: ample
             13.8.d Footer menu
             13.8.e Scroll to Top
 14.0 Responsive Structure
-15.0 Colors
+15.0 Class Adds
 16.0 Individual Templates
       16.1 Donate
       16.2 Apply
@@ -177,7 +177,7 @@ textarea {
    font-weight: 300;
 }
 p {
-   color: #888888;
+   color: #000;
    font-size: 15px;
    line-height: 1.5;
    margin-bottom: 15px;
@@ -2117,12 +2117,14 @@ a#scroll-up:hover {
 }
 
 /*--------------------------------------------------------------
-15.0 Colors
+15.0 Class Adds
 --------------------------------------------------------------*/
 
 .facebook-color {color: #3b5998;}
 .twitter-color {color: #4c9ad6;}
 .instagram-color {color: #3f729b;}
+
+.bold {font-weight: 500;}
 
 /*--------------------------------------------------------------
 16.0 Individual Templates
