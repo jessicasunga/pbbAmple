@@ -14,8 +14,8 @@
 
             <div class="row" id="footer-top">
                <div class="medium-8 large-9 columns hide-for-small-only" id="footer-button">
-                  <a href="<?php echo site_url('/index.php/donate/'); ?>" class="button"><img src="http://localhost:8888/wordpress/wp-content/uploads/2016/04/pawprint.png"/>Sponsor a Puppy</a>
-                  <a href="<?php echo site_url('/index.php/donate/'); ?>" class="button"><img src="http://localhost:8888/wordpress/wp-content/uploads/2016/04/donate.png"/>Make a Donation</a>
+                  <a href="<?php echo site_url('/index.php/donate/'); ?>" class="button"><img src="http://sulley.cah.ucf.edu/~dig4104c0002/developPhase/wordpress/wp-content/uploads/2016/04/pawprint.png"/>Sponsor a Puppy</a>
+                  <a href="<?php echo site_url('/index.php/donate/'); ?>" class="button"><img src="http://sulley.cah.ucf.edu/~dig4104c0002/developPhase/wordpress/wp-content/uploads/2016/04/donate.png"/>Make a Donation</a>
                </div><!-- end #footer-button -->
                <div class="medium-4 large-3 columns" id="social-media">
                   <p>Get in touch with us:</p>
