@@ -2142,7 +2142,55 @@ a#scroll-up:hover {
 /*--------------------------------------------------------------
 16.3 Apply - Release Dog Template
 --------------------------------------------------------------*/
+#releaseimg {
+	width: 300px;
+	height: 300px;
+	border-right-style: orange;
+	padding-left: 30px;
+	padding-top: 50px;
+}
 
+#releasep {
+	margin-right: 30px;
+	margin-top: 50px;
+}
+
+.span_2_of_6 {width: 32.26%;}
+.span_4_of_6 {width: 66.13%;}
+
+
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+#button{
+  	padding: 3px 5px 3px 5px;
+  	color: #FFF;
+  	background-color: gainsboro;
+  	font-size: 20px;
+  	text-align: center;
+	font-style: normal;
+	border-radius: 5px;	
+	border: 1px solid #e65c00;
+	border-width: 1px 1px 3px;
+}
 /*--------------------------------------------------------------
 16.4 Apply - Volunteer Template
 --------------------------------------------------------------*/
